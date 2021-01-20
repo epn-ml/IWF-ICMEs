@@ -1,4 +1,4 @@
-# 04-IWF-ICME_and_CIR_detection
+# IWF - ICME and CIR detection
 
 This project is about the science case proposed by the IWF, entitled "Detection and classification of ICMEs and CIRs in in-situ solar wind data".
 
