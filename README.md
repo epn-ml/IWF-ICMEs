@@ -14,7 +14,7 @@ This project is about the science case proposed by the IWF, entitled "Detection 
 
 5. the ICMECAT catalogue in different formats (see section below ICME CATALOGUE v2.0): https://helioforecast.space/icmecat
 
-6. solar wind forecast (in the long-run we would like to include an automatic ICME identification here ;) ): https://helioforecast.space/solarwind
+6. solar wind forecast: https://helioforecast.space/solarwind
 
 **Further literature:**
 
