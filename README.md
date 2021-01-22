@@ -23,4 +23,4 @@ This project is about the science case proposed by the IWF, entitled "Detection 
       Astrophys. J. Lett. 705, L180-L185, doi:10.1088/0004-637X/705/2/L180
 *  Möstl C., Temmer M., Rollett T., Farrugia C.J., Liu Y., Veronig, A.M., Leitner M., Galvin, A.B., and Biernat H.K. (2010), STEREO and Wind observations of a fast ICME flank triggering a prolonged geomagnetic storm on 5-7 April 2010, Geophys. Res. Letters 37, L24103, doi:10.1029/2010GL045175
 *  Richardson I.G. (2018), Solar wind stream interaction regions throughout the heliosphere, Living Reviews in Solar Physics 15, doi:10.1007/s41116-017-0011-z
-*  Zurbuchen T.H. and Richardson, I.G. (2006), In-Situ Solar Wind and Magnetic Field Signatures of Interplanetary Coronal Mass Ejections, Space Sci. Rec. 123, 31-43, doi:10.1007/s11214-006-9010-4
+*  Zurbuchen T.H. and Richardson I.G. (2006), In-Situ Solar Wind and Magnetic Field Signatures of Interplanetary Coronal Mass Ejections, Space Sci. Rec. 123, 31-43, doi:10.1007/s11214-006-9010-4
