@@ -1,9 +1,10 @@
 # IWF - ICME detection
 
 This project is about the science case proposed by the IWF, entitled "Detection and classification of ICMEs in in-situ solar wind data".
-The results of this project have been submitted for publication and are currently available on arXiv: 
+The publication about this project can be found [here](https://doi.org/10.1029/2022SW003149):
 
-*  Rüdisser H.T., Windisch A., Amerstorfer U.V., Möstl C., Amerstorfer T., Bailey R.L., and Reiss M.A. (2022), Automatic detection of interplanetary coronal mass ejections in solar wind in situ data, 2022. URL https://arxiv.org/abs/2205.03578.
+    Rüdisser H.T., Windisch A., Amerstorfer U.V., Möstl C., Amerstorfer T., Bailey R.L., and Reiss M.A. (2022), Automatic detection of interplanetary coronal mass ejections in solar wind in situ data, Space Weather 20, e2022SW003149, doi:10.1029/2022SW003149.
+
 
 **Useful links and resources**
 
