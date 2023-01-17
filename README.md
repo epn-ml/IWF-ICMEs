@@ -1,3 +1,21 @@
+# Credits
+
+If you want to use this ML pipeline or parts thereof for your own research, please **provide credits to the developers** in the following way:
+
+1. For the **first two publications** resulting from the use of this ML pipeline or parts thereof
+
+- Please **add the following authors to the list of authors**:
+Rüdisser Hannah T., Austrian Space Weather Office, GeoSphere Austria, Graz, Austria
+
+- Please **add the following sentence to the acknowledgements**:
+Europlanet 2024 RI has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 871149.
+
+2. For the **third and all following publications** resulting from the use of this ML pipeline or parts thereof
+
+- Please **add the following sentences to the acknowledgements**:
+The used ML pipeline was developed in the course of Europlanet 2024 RI by Hannah T. Rüdisser (Austrian Space Weather Office, GeoSphere Austria, Graz).
+Europlanet 2024 RI has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 871149.
+
 # IWF - ICME detection
 
 This project is about the science case proposed by the IWF, entitled "Detection and classification of ICMEs in in-situ solar wind data".
