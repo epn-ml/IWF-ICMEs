@@ -1,5 +1,7 @@
 # Credits
 
+This ML pipeline or parts thereof is open source and can be used by anyone for their research. However, this does not mean that credits shouldn't be given to the main developers. 
+
 If you want to use this ML pipeline or parts thereof for your own research, please **provide credits to the developers** in the following way:
 
 1. For the **first two publications** resulting from the use of this ML pipeline or parts thereof
